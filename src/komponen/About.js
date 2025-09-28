@@ -13,14 +13,15 @@ const About=()=>{
                 <div className="about_data">
                     <p className="about_description">
                     Halo, kenalin aku Mufid, seseorang yang lahir di Bogor dan tinggal di Sukabumi. 
-                    Sekarang sedang disibukan dengan Pendidikan S1 di Universitas PendidikanIndonesia, 
-                    program studi Pendidikan Ilmu Komputer. Hobiku bermain game, sepertigame casual,
-                    competitive,rpg dan masih banyak lagi. saya juga suka nonton film terutama film-film marvel.
+                    Sekarang sedang disibukan dengan Pendidikan S1 di Universitas Pendidikan Indonesia, 
+                    program studi Pendidikan Ilmu Komputer. Hobiku bermain game, seperti game casual,
+                    competitive, rpg dan masih banyak lagi. Saya juga suka nonton film terutama film-film marvel dan menonton animek.
                     </p>
                 </div>
             </div>
         </section>
     );
 }
+
 
 export default About;
